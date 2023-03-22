@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="" tvg-name="USA | Smithsonian Channel" tvg-logo="" group-title="USA",USA | Smithsonian Channel
+http://192.99.70.160:25461/Margaret/Margaret/91300
+#EXTINF:-1 tvg-id="" tvg-name="USA | SMITHSONIAN EAST" tvg-logo="" group-title="USA",USA | SMITHSONIAN EAST
+http://192.99.70.160:25461/Margaret/Margaret/91334
